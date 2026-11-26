@@ -1,7 +1,7 @@
-# Nahyun Kim
+## AI for Biology
 
-I’m a KAIST undergraduate double-majoring in Biological Sciences and Computer Science, and an exchange student at the University of Washington.
+I’m interested in what AI can reveal about disease mechanisms, and how those insights might guide new therapeutic strategies. My experience spans computational and wet-lab research, with a growing focus on generative AI and computational biology.
 
-My research interests are Generative AI, Computational Biology, and Disease Mechanisms & Therapeutic Discovery.
+I study Biological Sciences and Computer Science at KAIST and am currently an exchange student at the University of Washington.
 
-For more about my research, please visit my [website](https://hyun414.github.io).
+[Research & publications →](https://hyun414.github.io)
